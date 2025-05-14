@@ -1,4 +1,4 @@
-![Screenshot 2025-01-22 205746](https://github.com/user-attachments/assets/f7670a51-c77a-4ead-8a95-686bae9713be)![Screenshot 2025-01-14 144840](![Screenshot 2025-01-22 205746](https://github.com/user-attachments/assets/ca8adb71-ac7d-46bc-9ffc-a41a564fcc46))
+(https://github.com/user-attachments/assets/f7670a51-c77a-4ead-8a95-686bae9713be)
 # 📦 Inventory Management System
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
