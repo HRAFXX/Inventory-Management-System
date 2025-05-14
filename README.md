@@ -1,6 +1,6 @@
-(https://github.com/user-attachments/assets/f7670a51-c77a-4ead-8a95-686bae9713be)
+![Login page](https://github.com/user-attachments/assets/f7670a51-c77a-4ead-8a95-686bae9713be)
 # 📦 Inventory Management System
-
+z
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Built with Flask](https://img.shields.io/badge/Built%20with-Flask-blue.svg)](https://flask.palletsprojects.com/)
 [![Database: MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen.svg)](https://www.mongodb.com/)
