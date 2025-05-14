@@ -1,4 +1,4 @@
-# 📦 Inventory Management System
+![Screenshot 2025-01-14 144840](https://github.com/user-attachments/assets/0e3a252a-b8ba-44ee-abb7-3a907fe0dfa5)# 📦 Inventory Management System
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Built with Flask](https://img.shields.io/badge/Built%20with-Flask-blue.svg)](https://flask.palletsprojects.com/)
@@ -34,8 +34,8 @@ Welcome to the **Inventory Management System**—a sleek, web-based app built to
 
 > _Coming soon! Add screenshots in the `images/` folder to show off your UI._
 
-- `![Screenshot 2025-01-22 205944](https://github.com/user-attachments/assets/61ae378e-79f2-4a3a-8033-a001934f4340)` — Your dashboard.
-- `![Screenshot 2025-01-15 173232](https://github.com/user-attachments/assets/c0f4a025-9cfc-40d6-9637-1dc0a0f617d6)` — Product view.
+![Dashboard](./assets/Screenshot%202025-01-22%20205944.png)
+![Product View](./assets/Screenshot%202025-01-15%20173232.png)
 
 ---
 
