@@ -43,35 +43,35 @@ Welcome to the **Inventory Management System**—a sleek, web-based app built to
 
 ### 1. Clone the Repo
 
-```bash
+`
 git clone https://github.com/HRAFXX/Inventory-Management-System.git
 cd Inventory-Management-System `
 
-2. Create a Virtual Environment
-```bash
+### 2. Create a Virtual Environment
+`
 python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+source venv/bin/activate  # On Windows: venv\Scripts\activate`
 
-3. Install the Requirements
-```bash
-pip install -r requirements.txt
+### 3. Install the Requirements
+`bash
+pip install -r requirements.txt`
 
-4. Set Up Environment Variables
+### 4. Set Up Environment Variables
 Create a .env file in the root and add:
-```bash
+`bash
 FLASK_APP=app.py
 FLASK_ENV=development
 SECRET_KEY=your_secret_key
-MONGO_URI=your_mongodb_connection_string
+MONGO_URI=your_mongodb_connection_string`
 
-5. Run the App
-```bash
-flask run
+### 5. Run the App
+`bash
+flask run`
 
 Then open your browser and go to:
 👉 http://localhost:5000
 
-🗂️ Project Structure
+### 🗂️ Project Structure
 Inventory-Management-System/
 ├── static/
 │   ├── css/
@@ -84,14 +84,14 @@ Inventory-Management-System/
 ├── requirements.txt
 ├── .env.example
 └── README.md
-🧪 Testing
+### 🧪 Testing
 Add your testing strategy here if needed.
 For now, good ol’ manual testing will do the trick! 🧼🖱️
 
-🤝 Contributing
+### 🤝 Contributing
 Feel like making this cooler? Fork the repo, make your changes, and open a pull request.
 
-PRs are welcome — especially with:
+PRs are welcome, especially with:
 
 ✨ New Features
 
@@ -99,11 +99,11 @@ PRs are welcome — especially with:
 
 💅 UI Improvements
 
-📄 License
+### 📄 License
 This project is licensed under the MIT License.
 Feel free to use, share, and modify!
 
-🌟 A Final Word
+### 🌟 A Final Word
 This is a great beginner-to-intermediate full-stack project. You can expand it with:
 
 📷 Barcode scanning
