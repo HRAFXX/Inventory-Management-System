@@ -43,7 +43,7 @@ Welcome to the **Inventory Management System**—a sleek, web-based app built to
 
 ### 1. Clone the Repo
 
-`
+`bash:
 git clone https://github.com/HRAFXX/Inventory-Management-System.git
 cd Inventory-Management-System `
 
@@ -53,19 +53,19 @@ python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate`
 
 ### 3. Install the Requirements
-`bash
+`bash:
 pip install -r requirements.txt`
 
 ### 4. Set Up Environment Variables
 Create a .env file in the root and add:
-`bash
+`bash:
 FLASK_APP=app.py
 FLASK_ENV=development
 SECRET_KEY=your_secret_key
 MONGO_URI=your_mongodb_connection_string`
 
 ### 5. Run the App
-`bash
+`bash: 
 flask run`
 
 Then open your browser and go to:
