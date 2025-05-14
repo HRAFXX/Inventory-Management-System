@@ -34,8 +34,8 @@ Welcome to the **Inventory Management System**—a sleek, web-based app built to
 
 > _Coming soon! Add screenshots in the `images/` folder to show off your UI._
 
-- `images/dashboard.png` — Your dashboard.
-- `images/product_management.png` — Product view.
+- `![Screenshot 2025-01-22 205944](https://github.com/user-attachments/assets/61ae378e-79f2-4a3a-8033-a001934f4340)` — Your dashboard.
+- `![Screenshot 2025-01-15 173232](https://github.com/user-attachments/assets/c0f4a025-9cfc-40d6-9637-1dc0a0f617d6)` — Product view.
 
 ---
 
