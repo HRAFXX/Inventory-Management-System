@@ -70,16 +70,26 @@ Then open your browser and go to:
 
 ### 🗂️ Project Structure
 Inventory-Management-System/
+
 ├── static/
+
 │   ├── css/
+
 │   └── js/
+
 ├── templates/
+
 │   ├── base.html
+
 │   ├── dashboard.html
+
 │   └── ...
+
 ├── app.py
 ├── requirements.txt
+
 ├── .env.example
+
 └── README.md
 ### 🧪 Testing
 Add your testing strategy here if needed.
